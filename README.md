@@ -31,4 +31,4 @@ Crear un servicio Node y una base de datos MySQL. Configurar `DB_HOST`, `DB_PORT
 
 ## Integrantes
 
-Completar nombres y carnets antes de entregar.
+ADAL ISAAC CARCAMO SANCHEZ CS230279 FERNANDO JOSE LOPEZ DOMINGUEZ LD230289
